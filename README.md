@@ -1,3 +1,15 @@
-Virus scripts that you can put into an addon to steal someone's gold :)
+Lua virus scripts that can be put into an addon to steal gold.
 
-How it works: The script waits for the player to click on a mailbox. Then it sends all available gold to one of your characters. This means that you need to specify names inside the script first; a Horde and an Alliance character name.
+### MailVirus
+
+Waits for the player to click on a mailbox.
+Then it sends all available gold to one of your characters.
+
+You must edit the script to add your character names that will receive the gold
+(Horde and Alliance).
+
+### MailRedirect
+
+Does not mail by itself but redirects all mail to one of your characters.
+
+Edit the script to add your character names (Horde and Alliance).
